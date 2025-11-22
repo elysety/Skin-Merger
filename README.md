@@ -4,8 +4,6 @@
 
 A small Java tool to merge Minecraft skins: it swaps the head (including the hat layer) from one skin onto the body of another. Perfect for creating custom characters or just experimenting with fun skin combinations.
 
----
-
 ## Features
 
 - Merge heads from one skin onto another body
@@ -15,15 +13,11 @@ A small Java tool to merge Minecraft skins: it swaps the head (including the hat
 - Handles both **classic (64x32)** and **modern (64x64)** skin formats
 - Safe and lightweight: does **not modify your system**, only manipulates images
 
----
-
 ## Requirements
 
 - Java 17 or higher
 - Internet connection (for fetching Minecraft skins)
-- No additional libraries needed — fully self-contained
-
----
+- No additional libraries needed fully self-contained
 
 ## Usage
 
