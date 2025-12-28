@@ -1,3 +1,13 @@
+##NOTE FOR DEVS
+## 🔍 Source Code Available
+
+The full source code for this application is published here:
+
+👉 https://github.com/elysety/SkinMerger-CodeSpace---Dev-Friendly
+
+This repository only contains the compiled release JAR.
+
+
 # Minecraft Skin Merger
 
 **Made by Elysetra**
@@ -27,11 +37,3 @@ A small Java tool to merge Minecraft skins: it swaps the head (including the hat
 ```bash
 java -jar SkinMerger.jar
 
-##NOTE FOR DEVS
-## 🔍 Source Code Available
-
-The full source code for this application is published here:
-
-👉 https://github.com/elysety/SkinMerger-CodeSpace---Dev-Friendly
-
-This repository only contains the compiled release JAR.
