@@ -1,4 +1,4 @@
-##NOTE FOR DEVS
+
 ## 🔍 Source Code Available
 
 The full source code for this application is published here:
