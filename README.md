@@ -3,7 +3,7 @@
 
 The full source code for this application is published here:
 
-👉 https://github.com/elysety/SkinMerger-CodeSpace---Dev-Friendly
+👉 https://github.com/elysety/SkinMerger-Source
 
 This repository only contains the compiled release JAR.
 
